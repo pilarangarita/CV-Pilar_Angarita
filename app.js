@@ -45,10 +45,10 @@ crearBarra(ilustrator);
 
 //Barras iniciales
 let contadores = [-1,-1,-1,-1,-1,-1];
-//esta variable la voy a utilizar de bandera para saber si ya ejecuto la animación
+//prueba
 let entro = false;
 
-//función para animaciones de la habilidades
+//función para animaciones de las habilidades
 function efectoHabilidades(){
     var habilidades = document.getElementById("habilidades");
     var distancia_skills = window.innerHeight - habilidades.getBoundingClientRect().top;
