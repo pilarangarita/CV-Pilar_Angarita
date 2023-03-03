@@ -212,30 +212,30 @@ html{
     margin-right: 2px;
 }
 /* SECCION EDUCACION Y EXPERIENCIA */
-.Educación-y-Experiencia{
+.Educacion-y-Experiencia{
     background-color: #e6e6e6;
     padding: 140px 0 100px 0;
     text-align: center;
 }
-.Educación-y-Experiencia .contenido-seccion{
+.Educacion-y-Experiencia .contenido-seccion{
     max-width: 1000px;
     margin: auto;
     padding: 0 10px;
 }
-.Educación-y-Experiencia .contenido-seccion h3{
+.Educacion-y-Experiencia .contenido-seccion h3{
     text-transform: uppercase;
     font-size: 30px;
 }
-.Educación-y-Experiencia .contenido-seccion .info{
+.Educacion-y-Experiencia .contenido-seccion .info{
     text-align: left;
     display: flex;
     justify-content: space-between;
     margin-top: 30px;
 }
-.Educación-y-Experiencia .contenido-seccion .info .col{
+.Educacion-y-Experiencia .contenido-seccion .info .col{
     width: 45%;
 }
-.Educación-y-Experiencia .contenido-seccion .info .col .titulo{
+.Educacion-y-Experiencia .contenido-seccion .info .col .titulo{
     display: inline-block;
     color: #7411c1;
     font-weight: bold;
@@ -243,31 +243,31 @@ html{
     padding: 10px;
 
 }
-.Educación-y-Experiencia .contenido-seccion .info .col table{
+.Educacion-y-Experiencia .contenido-seccion .info .col table{
     margin-top: 30px;
     border-collapse: collapse;
 }
-.Educación-y-Experiencia .contenido-seccion .info .col table .datos{
+.Educacion-y-Experiencia .contenido-seccion .info .col table .datos{
     width: 40%;
     border-bottom: 1px solid #7411c1;
 }
-.Educación-y-Experiencia .contenido-seccion .info .col table h4{
+.Educacion-y-Experiencia .contenido-seccion .info .col table h4{
     margin-top: 10px;
 }
-.Educación-y-Experiencia .contenido-seccion .info .col table h3{
+.Educacion-y-Experiencia .contenido-seccion .info .col table h3{
     font-size: 20px;
     margin-bottom: 5px;
 }
-.Educación-y-Experiencia .contenido-seccion .info .col table p{
+.Educacion-y-Experiencia .contenido-seccion .info .col table p{
     font-size: 14px;
 }
-.Educación-y-Experiencia .contenido-seccion .info .col table .promedio{
+.Educacion-y-Experiencia .contenido-seccion .info .col table .promedio{
     display: block;
     color: #7411c1;
     margin-top: 10px;
     font-weight: bold;
 }
-.Educación-y-Experiencia .contenido-seccion .info .col table .descripcion{
+.Educacion-y-Experiencia .contenido-seccion .info .col table .descripcion{
     border-left: 1px solid #7411c1;
     padding-left: 20px;
 }
@@ -302,11 +302,11 @@ html{
     .Educación-y-Experiencia .contenido-seccion .fila{
         display: block;
     }
-    .Educación-y-Experiencia .contenido-seccion .fila .col{
+    .Educacion-y-Experiencia .contenido-seccion .fila .col{
         width: 100%;
         text-align: center;
     }
-    .Educación-y-Experiencia .contenido-seccion .fila .col .cont-barra{
+    .Educacion-y-Experiencia .contenido-seccion .fila .col .cont-barra{
         justify-content: center;
     }
     .sobremi .contenido-seccion .fila{
@@ -317,18 +317,18 @@ html{
         margin: auto;
         margin-top: 20px;
     }
-    .Educación-y-Experiencia .contenido-seccion .info{
+    .Educacion-y-Experiencia .contenido-seccion .info{
         display: block;
     }
-    .Educación-y-Experiencia .contenido-seccion .info .col{
+    .Educacion-y-Experiencia .contenido-seccion .info .col{
         width: 90%;
         margin: auto;
     }
-    .Educación-y-Experiencia .contenido-seccion .info .col .titulo{
+    .Educacion-y-Experiencia .contenido-seccion .info .col .titulo{
         display: block;
         text-align: center;
     }
-    .Educación-y-Experiencia .contenido-seccion .info .col table{
+    .Educacion-y-Experiencia .contenido-seccion .info .col table{
         margin-top: 10px;
         margin-bottom: 30px;
     }
